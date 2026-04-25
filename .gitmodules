@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "modelscompete4"]
+	path = modelscompete4
+	url = https://github.com/ssjerf-stack/modelscompete4
